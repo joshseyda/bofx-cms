@@ -4,8 +4,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d1e95c45-3995-4f91-b6f2-e46107b0b6da/deploy-status)](https://app.netlify.com/sites/bofxcms/deploys)
 
-**Note:** This starter uses [Gatsby v2](https://www.gatsbyjs.org/blog/2018-09-17-gatsby-v2/).
-**Note:** This app uses [Open Authoring](https://www.netlifycms.org/docs/open-authoring/).
+**Note:** This starter uses [Gatsby v2](https://www.gatsbyjs.org/blog/2018-09-17-gatsby-v2/) and [Open Authoring](https://www.netlifycms.org/docs/open-authoring/).
 
 This repo contains an example business website that is built with [Gatsby](https://www.gatsbyjs.org/), and [Netlify CMS](https://www.netlifycms.org): **[Demo Link](https://gatsby-netlify-cms.netlify.com/)**.
 
